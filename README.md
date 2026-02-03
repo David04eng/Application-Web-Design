@@ -1,6 +1,6 @@
 \# Datos
 
-* \*\*Nombre:\*\* David de Jesus Espinoza Melendeza
+* \*\*Nombre:\*\* David de Jesus Espinoza Melendez
 * \*\*Matricula:\*\* al03103614
 * \*\*Carrera:\*\* Ingenieria en Desarrollo de Software
 * \*\*Semestre:\*\* Sexto Semestre
