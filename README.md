@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -59,3 +60,29 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+\# Datos
+
+* \*\*Nombre:\*\* David de Jesus Espinoza Melendez
+* \*\*Matricula:\*\* al03103614
+* \*\*Carrera:\*\* Ingenieria en Desarrollo de Software
+* \*\*Semestre:\*\* Sexto Semestre
+
+
+
+\## Materia
+
+* \*\*Materia:\*\* Diseno de aplicaciones web
+* \*\*Profesor:\*\* Marco Horacio Moreno Gonzales
+
+
+
+\## Que es markdown
+
+Markdown es un lenguaje de marcado ligero que permite dar formato a texto plano usando símbolos simples como # para títulos, 
+
+\*\* para negritas y - para listas; se usa principalmente en documentación, apuntes y archivos README en plataformas como GitHub 
+
+porque es fácil de leer, rápido de escribir y no requiere editores especiales.
+
+>>>>>>> 9f5b4b0215b507718ca1350083b13f60d855b7fb
